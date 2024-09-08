@@ -1,4 +1,13 @@
-## Hi there 👋
+|| Greetings fellow humans,
+
+I'm a first-year Technical Computer Science (Bachelor) student at the University of Twente in my early 30's. 
+
+I have my Bachelor's degree in Civil Engineering and have been working as a civil engineer. As time went by I couldn't stop myself from going back to school. Computer science just kept fascinating me and it consumed all my spare time. 
+
+I recently started studying Technical Computer Science (Bachelor) at the University of Twente.
+
+I know the basics of the programming languages Python and JavaScript. I also know the basics of HTML and CSS for web development.
+During my Technical Computer Science studies the first new programming language I learn is Java.
 
 <!--
 **Qziq/Qziq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
