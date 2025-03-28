@@ -2,7 +2,7 @@
 
 I have my Bachelor's degree in Civil Engineering and have been working as a civil engineer. As time went by I couldn't stop myself from going back to school. Computer science just kept fascinating me and it consumed all my spare time.
 
-This is why recently started studying Technical Computer Science (Bachelor) at the University of Twente. I'm a first-year Technical Computer Science (Bachelor) student at the University of Twente. I'm currently studying networking systems.
+This is why recently started studying Technical Computer Science (Bachelor) at the University of Twente. I'm a first-year student, currently studying networking systems.
 
 I know the programming languages Java, Python and JavaScript. I also know how to use HTML and CSS for web development. 
 
