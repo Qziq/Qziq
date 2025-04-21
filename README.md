@@ -1,4 +1,7 @@
 || Greetings fellow humans!
+I have a bachelor's degree in civil engineering and I am studying Technical Computer Science now.
+
+I know how to use Java, Python, HTML5, CSS3 and JavaScript.
 <!--
 **Qziq/Qziq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
